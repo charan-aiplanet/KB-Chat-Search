@@ -1,0 +1,45 @@
+# Core Streamlit and UI
+streamlit>=1.28.0
+streamlit-extras>=0.3.0
+
+# Data handling and utilities
+pandas>=1.5.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# AI and ML frameworks
+langchain>=0.0.350
+langchain-groq>=0.0.1
+pyautogen>=0.2.0
+
+# LLM and embeddings
+sentence-transformers>=2.2.2
+huggingface-hub>=0.17.0
+transformers>=4.35.0
+
+# Vector store and search
+faiss-cpu>=1.7.4
+chromadb>=0.4.15
+
+# Document processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+markdown>=3.5.0
+
+# HTTP and API
+requests>=2.31.0
+httpx>=0.25.0
+
+# Typing and models
+typing-extensions>=4.8.0
+pydantic>=2.4.0
+
+# Optional: GPU support
+# torch>=2.0.0
+# torch-audio>=2.0.0
+# torchvision>=0.15.0
+
+# Development and testing (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
