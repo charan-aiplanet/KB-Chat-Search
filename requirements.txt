@@ -9,15 +9,16 @@ python-dotenv>=1.0.0
 
 # AI and ML frameworks
 langchain>=0.0.350
+langchain-community>=0.0.24
 langchain-groq>=0.0.1
 pyautogen>=0.2.0
 
-# LLM and embeddings
+# LLMs and Embeddings
 sentence-transformers>=2.2.2
 huggingface-hub>=0.17.0
 transformers>=4.35.0
 
-# Vector store and search
+# Vector stores and semantic search
 faiss-cpu>=1.7.4
 chromadb>=0.4.15
 
@@ -26,7 +27,7 @@ PyPDF2>=3.0.0
 python-docx>=0.8.11
 markdown>=3.5.0
 
-# HTTP and API
+# HTTP and API calls
 requests>=2.31.0
 httpx>=0.25.0
 
@@ -34,9 +35,9 @@ httpx>=0.25.0
 typing-extensions>=4.8.0
 pydantic>=2.4.0
 
-# Optional: GPU support
+# Optional: GPU Support
 # torch>=2.0.0
-# torch-audio>=2.0.0
+# torchaudio>=2.0.0
 # torchvision>=0.15.0
 
 # Development and testing (optional)
