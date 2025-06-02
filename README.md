@@ -1,4 +1,5 @@
-##🧠 Knowledge Base Chat & Search
+#🧠 Knowledge Base Chat & Search
+
 AI-powered knowledge management with AutoGen multi-agent collaboration
 Knowledge Base Chat & Search is a sophisticated Streamlit application that combines Retrieval-Augmented Generation (RAG) with multi-agent AI collaboration using Microsoft's AutoGen framework. Upload your documents, create knowledge bases, and interact with an intelligent multi-agent system that collaboratively processes your queries.
 ✨ Features
